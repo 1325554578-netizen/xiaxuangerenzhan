@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.*
+.pnpm-store/
+tmp/
+output/
+extracted_media/
+render_original/
+render_optimized/
+font_renders/
+ql_preview/
+*.docx
